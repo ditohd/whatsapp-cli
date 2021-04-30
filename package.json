@@ -7,5 +7,8 @@
     "test": "waweb"
   },
   "author": "Dito.",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
