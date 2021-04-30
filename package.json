@@ -3,12 +3,11 @@
   "version": "1.4.0",
   "description": "A Whatsapp Web Api Configuration",
   "main": "main",
-  "scripts": {
-    "test": "waweb"
-  },
   "author": "Dito.",
   "license": "ISC",
   "dependencies": {
+    "fs": "*",
+    "fs-extra": "^9.1.0",
     "inquirer": "^8.0.0"
   }
 }
