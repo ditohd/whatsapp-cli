@@ -10,14 +10,14 @@ wa-cli
 
 ## TO DO
 
-*   [ ] Pilih library yang ingin digunakan
-*   [ ] Saat startup cli akan mengeluarkan output
-    *   [ ] Check jika info.json mempunyai library whatsapp...
-    *   [ ] Nama dari sebuah project?
-        * direktori default berada saat installasi direktori
-    *   [ ] Pilih library yang akan digunakan
+*   [x] Nama dari sebuah project?
+    *   [x] Check jika info.json mempunyai library whatsapp...
+    * direktori default berada saat installasi direktori
+*   [x] Pilih library yang ingin digunakan
+*   [x] Saat startup cli akan mengeluarkan output
+    *   [x] Pilih library yang akan digunakan
         * @adiwajshing/baileys (default)
-            *   [ ] Pilih antara `stable` atau yang `latest`?
+            *   [x] Pilih antara `stable` atau yang `latest`?
             *   [ ] Pilih Source Code yang ingin digunakan
                 * y-team (default)
                 * @nurutomo/wabot-aq
