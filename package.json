@@ -1,6 +1,6 @@
 {
   "name": "@dito/whatsapp-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Whatsapp Web Api Configuration",
   "main": "main",
   "scripts": {
