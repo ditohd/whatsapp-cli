@@ -1,0 +1,11 @@
+{
+  "name": "whatsappcli",
+  "version": "1.0.0",
+  "description": "A Whatsapp Web Api Configuration",
+  "main": "main",
+  "scripts": {
+    "test": "waweb"
+  },
+  "author": "Dito.",
+  "license": "ISC"
+}
